@@ -1,6 +1,6 @@
 # Barbearia-Alura     
 
-para copiar o código em HTML:
+## index.html:
 ```
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -26,3 +26,18 @@ para copiar o código em HTML:
 	</body>
 </html>
 ```
+## Style.css
+```
+body {
+	background: #CCCCCC
+}
+
+p {
+	text-align: center
+}
+
+em strong {
+	color: red;
+}
+```
+
